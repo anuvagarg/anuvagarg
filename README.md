@@ -1,6 +1,7 @@
 ### HELLO 👋 I'm Anuva Garg
 An aspiring DevOps Engineer & A Web Developer Enthusiast.
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=anuvagarg&theme=monokai&hide_border=true)](https://git.io/streak-stats)
 <!--
 **anuvagarg/anuvagarg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
