@@ -1,4 +1,5 @@
-### Hi there 👋
+### HELLO 👋 I'm Anuva Garg
+An aspiring DevOps Engineer & A Web Developer Enthusiast.
 
 <!--
 **anuvagarg/anuvagarg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
