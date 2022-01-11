@@ -2,7 +2,7 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" /> I'm Anuva Garg</h1>
-An aspiring DevOps Engineer & A Web Developer Enthusiast.
+<h5 align="center">A 2nd year student pursuing a bachelor’s degree in Computer Science & Engineering (with DevOps specialization) at UPES Dehradun. I am a web dev enthusiast and a musician.</h5>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=anuvagarg&theme=monokai&hide_border=true)](https://git.io/streak-stats)
 <!--
