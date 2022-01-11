@@ -5,7 +5,8 @@
 <h5 align="center">A 2nd year student pursuing a bachelor’s degree in Computer Science & Engineering (with DevOps specialization) at UPES Dehradun. I am a web dev enthusiast and a musician.</h5>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=anuvagarg&label=Profile%20views&color=0e75b6&style=flat" alt="anuvagarg"/> 
 
-<img alt= "stats card" src="https://github-readme-streak-stats.herokuapp.com/?user=anuvagarg&theme=radical"></p>
+<img alt= "stats card" src="https://github-readme-streak-stats.herokuapp.com/?user=anuvagarg&theme=radical">
+<img alt= "stats card" src="https://github-readme-stats.vercel.app/api?username=anuvagarg&count_private=true&theme=radical&show_icons=true" /></p>
 <!--<p align="center">
   <img src="https://github.com/anuvagarg/anuvagarg/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>-->
