@@ -1,4 +1,7 @@
-### HELLO 👋 I'm Anuva Garg
+<h1 align = "center"> HELLO <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" /> I'm Anuva Garg</h1>
 An aspiring DevOps Engineer & A Web Developer Enthusiast.
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=anuvagarg&theme=monokai&hide_border=true)](https://git.io/streak-stats)
