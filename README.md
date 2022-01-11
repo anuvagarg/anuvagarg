@@ -3,7 +3,7 @@
          height="45"
          width="45" /> I'm Anuva Garg</h1>
 <h5 align="center">A 2nd year student pursuing a bachelor’s degree in Computer Science & Engineering (with DevOps specialization) at UPES Dehradun. I am a web dev enthusiast and a musician.</h5>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anuvagarg&label=Profile%20views&color=0e75b6&style=flat" alt="anuvagarg" /> </p>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=anuvagarg&theme=monokai&hide_border=true)](https://git.io/streak-stats)
 <!--
 **anuvagarg/anuvagarg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
