@@ -6,6 +6,9 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=anuvagarg&label=Profile%20views&color=0e75b6&style=flat" alt="anuvagarg"/> 
 
 <img alt= "stats card" src="https://github-readme-streak-stats.herokuapp.com/?user=anuvagarg&theme=radical"></p>
+<p align="center">
+  <img src="https://github.com/anuvagarg/anuvagarg/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
 <!--
 **anuvagarg/anuvagarg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
