@@ -6,8 +6,8 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=anuvagarg&label=Profile%20views&color=0e75b6&style=flat" alt="anuvagarg"/><br>
          <img alt= "stats card" src="https://github-readme-streak-stats.herokuapp.com/?user=anuvagarg&theme=radical">
          <img alt= "stats card" src="https://github-readme-stats.vercel.app/api?username=anuvagarg&count_private=true&theme=radical&show_icons=true"/></p>
-
-<a href="https://www.linkedin.com/in/anuvagarg/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="anuva garg" height="50" width="50" /></a>
+<h3 align="center">Connect with me:</h3>
+<a target="blank" href="https://www.linkedin.com/in/anuvagarg/"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="anuva garg" height="50" width="50" /></a>
 <!--<p align="center">
   <img src="https://github.com/anuvagarg/anuvagarg/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>-->
