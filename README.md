@@ -8,7 +8,6 @@
          <img alt= "stats card" src="https://github-readme-stats.vercel.app/api?username=anuvagarg&count_private=true&theme=radical&show_icons=true"/></p>
 <h3 align="center">Connect with me:<br><br>
 <a target="blank" href="https://www.linkedin.com/in/anuvagarg/"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="anuva garg" height="40" width="40" /></a>
-<a target="blank" href="https://dev.to/anuva"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/dev.png" alt="anuva garg" height="40" width="40" /></a>
 <a target="blank" href="https://dev.to/anuva"><img src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/36/000000/external-dev-community-where-programmers-share-ideas-and-help-each-other-grow-logo-green-tal-revivo.png"/></a></h3>
 <!--<p align="center">
   <img src="https://github.com/anuvagarg/anuvagarg/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
