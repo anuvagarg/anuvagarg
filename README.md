@@ -9,6 +9,7 @@
 <h3 align="center">Connect with me:<br><br>
 <a target="blank" href="https://www.linkedin.com/in/anuvagarg/"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="anuva garg" height="40" width="40" /></a>
 <a target="blank" style="padding: 20px" href="https://dev.to/anuva"><img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/24/000000/external-dev-community-where-programmers-share-ideas-and-help-each-other-grow-logo-filled-tal-revivo.png" alt="anuva garg" height="40" width="40"/></a></h3>
+<link href="https://github.com/anuvagarg/anuvagarg.github.io/assets/css/style.css" rel="stylesheet">
 <!--<p align="center">
   <img src="https://github.com/anuvagarg/anuvagarg/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>-->
