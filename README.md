@@ -1,4 +1,4 @@
-<link href="https://github.com/anuvagarg/anuvagarg.github.io/assets/css/style.css" rel="stylesheet">
+<link href="https://github.com/anuvagarg/anuvagarg.github.io/blob/master/assets/css/style.css" rel="stylesheet">
 <h1 align = "center"> HELLO <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
