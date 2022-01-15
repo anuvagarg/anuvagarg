@@ -5,7 +5,7 @@
          width="45" /> I'm Anuva Garg</h1>
 <h5 align="center">A 2nd year student pursuing a bachelor’s degree in Computer Science & Engineering (with DevOps specialization) at UPES Dehradun. I am a web dev enthusiast and a musician.</h5>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=anuvagarg&label=Profile%20views&color=0e75b6&style=flat" alt="anuvagarg"/><br>
-         <img alt= "stats card" src="https://github-readme-streak-stats.herokuapp.com/?user=&theme=radical">
+         <img alt= "stats card" src="https://github-readme-streak-stats.herokuapp.com/?user=anuvagarg&theme=radical">
          <img alt= "stats card" src="https://github-readme-stats.vercel.app/api?username=anuvagarg&count_private=true&theme=radical&show_icons=true"/></p>
 <h3 align="center">Connect with me:<br><br>
 <a target="blank" href="https://www.linkedin.com/in/anuvagarg/"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="anuva garg" height="40" width="40" /></a>
